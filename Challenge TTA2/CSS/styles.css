@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+    margin: 0px;
+    
+}
+
+h1{
+    border: 0px;
+    margin: 0px 0px 5px 0px;
+    padding:10px 0 0 0px;
+}
+
+nav{
+    background-color: #CC0033;
+    
+    float: left;
+    width: 100%;
+    display: inline;
+    height: 45px;
+    padding: 25px 10px 0px 0px;
+}
+
+.contact{
+    float: right;
+    padding: 0px 10px 0px 10px;
+}
+
+p{
+    padding:0 0 0 0;
+    margin: 0;
+}
+
+.navbar{
+    display: inline;
+    color: white;
+    margin: 10px;
+    margin-top: 0px;
+
+   
+}
+
+a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+h4 {
+    margin: 20px 0 0 0;
+    font-weight: bold;
+    padding: 68px 0 0 15px;
+}
+
+main{
+    margin-bottom: 400px;
+}
+
+.footer{
+    background-color: #CC0033;
+    text-align: center;
+    width: 100%;
+    height: 45px;
+    color: white;
+    padding-top: 20px;
+}
